@@ -1,0 +1,54 @@
+/* Hexidecimal */
+h1 {
+    color: #000000;
+    background-color: red;
+}
+
+/* Hexidecimal Shorthand */
+h2 {
+    color: #0f0;
+    background-color: orange;
+}
+
+/* RGB */
+h3 {
+    color:rgb(255, 0, 0);
+    background-color: yellow;
+}
+
+/* RGBA */
+h4 {
+    color: rgba(145, 200, 70, .7);
+    background-color: green;
+}
+
+/* Color Name */
+h5 {
+    color: maroon;
+    background-color: blue;
+}
+
+/* Hexidecimal with Transparency */
+h6 {
+    color: #ff8500;
+    background-color: #4b0082;
+}
+
+/* Hexidecimal with Transparency */
+p {
+    color: #777777;
+    background-color: violet;
+}
+
+/* Bonus pt 3 */
+#hotpink {
+    color: hotpink;
+}
+
+#peachpuff {
+    background-color: peachpuff;
+}
+
+.test {
+    border: 5px solid green;
+}
